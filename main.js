@@ -7,4 +7,4 @@ var Human = function(name, hair){
 
 var tom = new Human(tom, brown);
 
-console.log (tom)
+console.log(tom);
